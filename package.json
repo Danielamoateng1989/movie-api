@@ -1,0 +1,24 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielamoateng1989/movie-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielamoateng1989/movie-api/issues"
+  },
+  "homepage": "https://github.com/Danielamoateng1989/movie-api#readme",
+  "dependencies": {
+    "eslint": "^7.25.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
